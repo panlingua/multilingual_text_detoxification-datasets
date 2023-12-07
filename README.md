@@ -1,1 +1,1 @@
-# multilingual_text_detoxification-datasets
+# Text detoxification datasets
