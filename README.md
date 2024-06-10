@@ -17,7 +17,7 @@ This work focuses on text detoxification, i.e., automatically converting toxic t
 ```
 
 # License
-Please read the [License](https://github.com/panlingua/multilingual-tst-datasets/blob/main/LICENSE) file.
+Please read the [License](https://github.com/panlingua/multilingual_text_detoxification_datasets/blob/main/LICENSE) file.
 
 # Acknowldegments
 <p align="justify">
