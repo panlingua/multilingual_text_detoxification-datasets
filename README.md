@@ -29,11 +29,11 @@ If you use this data, please cite:
 ```
 @inproceedings{sourabrata-etal-2023-text,
     title = "Text Detoxification as Style Transfer in {E}nglish and {H}indi",
-    author = "Sourabrata, Mukherjee  and
-      Akanksha, Bansal  and
-      Atul, Kr. Ojha  and
-      John, P. McCrae  and
-      Ondrej, Dusek",
+    author = "Sourabrata Mukherjee  and
+      Akanksha Bansal  and
+      Atul Kr. Ojha  and
+      John P. McCrae  and
+      Ondrej Dusek",
     editor = "Jyoti, D. Pawar  and
       Sobha, Lalitha Devi",
     booktitle = "Proceedings of the 20th International Conference on Natural Language Processing (ICON)",
