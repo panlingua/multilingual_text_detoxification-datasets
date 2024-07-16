@@ -46,6 +46,16 @@ If you use this data, please cite:
     abstract = "This paper focuses on text detoxification, i.e., automatically converting toxic text into nontoxic text. This task contributes to safer and more respectful online communication and can be considered a Text Style Transfer (TST) task, where the text{'}s style changes while its content is preserved. We present three approaches: (i) knowledge transfer from a similar task (ii) multi-task learning approach, combining sequence-to-sequence modeling with various toxicity classification tasks, and (iii) delete and reconstruct approach. To support our research, we utilize a dataset provided by Dementieva et al. (2021), which contains multiple versions of detoxified texts corresponding to toxic texts. In our experiments, we selected the best variants through expert human annotators, creating a dataset where each toxic sentence is paired with a single, appropriate detoxified version. Additionally, we introduced a small Hindi parallel dataset, aligning with a part of the English dataset, suitable for evaluation purposes. Our results demonstrate that our approach effectively balances text detoxification while preserving the actual content and maintaining fluency.",
 }
 ```
+```
+@misc{mukherjee2024large,
+      title={Are Large Language Models Actually Good at Text Style Transfer?}, 
+      author={Sourabrata Mukherjee and Atul Kr. Ojha and Ondřej Dušek},
+      year={2024},
+      eprint={2406.05885},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.CL' full_name='Computation and Language' is_active=True alt_name='cmp-lg' in_archive='cs' is_general=False description='Covers natural language processing. Roughly includes material in ACM Subject Class I.2.7. Note that work on artificial languages (programming languages, logics, formal systems) that does not explicitly address natural-language issues broadly construed (natural-language processing, computational linguistics, speech, text retrieval, etc.) is not appropriate for this area.'}
+}
+```
 </pre>
 
 <pre>
