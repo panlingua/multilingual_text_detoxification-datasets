@@ -27,15 +27,23 @@ Atul Kr. Ojha and John P. McCrae would like to acknowledge the support of the <a
 # References
 If you use this data, please cite:
 ```
-@article{mukherjee2024text,
-      title={Text Detoxification as Style Transfer in English and Hindi}, 
-      author={Sourabrata Mukherjee and Akanksha Bansal and Atul Kr. Ojha and John P. McCrae and Ondřej Dušek},
-      journal={arXiv preprint arXiv:2402.07767},
-      eprint={2402.07767},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2402.07767},
-      year={2024}
+@inproceedings{sourabrata-etal-2023-text,
+    title = "Text Detoxification as Style Transfer in {E}nglish and {H}indi",
+    author = "Sourabrata, Mukherjee  and
+      Akanksha, Bansal  and
+      Atul, Kr. Ojha  and
+      John, P. McCrae  and
+      Ondrej, Dusek",
+    editor = "Jyoti, D. Pawar  and
+      Sobha, Lalitha Devi",
+    booktitle = "Proceedings of the 20th International Conference on Natural Language Processing (ICON)",
+    month = dec,
+    year = "2023",
+    address = "Goa University, Goa, India",
+    publisher = "NLP Association of India (NLPAI)",
+    url = "https://aclanthology.org/2023.icon-1.13",
+    pages = "133--144",
+    abstract = "This paper focuses on text detoxification, i.e., automatically converting toxic text into nontoxic text. This task contributes to safer and more respectful online communication and can be considered a Text Style Transfer (TST) task, where the text{'}s style changes while its content is preserved. We present three approaches: (i) knowledge transfer from a similar task (ii) multi-task learning approach, combining sequence-to-sequence modeling with various toxicity classification tasks, and (iii) delete and reconstruct approach. To support our research, we utilize a dataset provided by Dementieva et al. (2021), which contains multiple versions of detoxified texts corresponding to toxic texts. In our experiments, we selected the best variants through expert human annotators, creating a dataset where each toxic sentence is paired with a single, appropriate detoxified version. Additionally, we introduced a small Hindi parallel dataset, aligning with a part of the English dataset, suitable for evaluation purposes. Our results demonstrate that our approach effectively balances text detoxification while preserving the actual content and maintaining fluency.",
 }
 ```
 </pre>
